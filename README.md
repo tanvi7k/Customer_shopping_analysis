@@ -6,10 +6,15 @@ The objective of this project is to analyze sales and customer behavior data to 
 **Tools & Technologies Used**
 
 Microsoft Excel
+
 Power BI
+
 Data Cleaning & Transformation
+
 Data Visualization
+
 Dashboard Design
+
 Exploratory Data Analysis (EDA)
 
 **Dataset Description**
@@ -25,6 +30,7 @@ Order status
 **Data Cleaning & Preparation**
 
 Removed missing and duplicate values
+
 Verified data consistency and accuracy
 
 **Data Analysis Process**
