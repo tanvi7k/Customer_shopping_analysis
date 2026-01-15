@@ -8,7 +8,6 @@ The objective of this project is to analyze sales and customer behavior data to 
 Microsoft Excel
 Power BI
 Data Cleaning & Transformation
-Pivot Tables
 Data Visualization
 Dashboard Design
 Exploratory Data Analysis (EDA)
@@ -23,24 +22,10 @@ Product categories
 Sales channels
 Order status
 
-**Key Business Questions (KPIs)**
+**Data Cleaning & Preparation**
 
-Compare total sales and total orders using a single visualization
-Identify the month with the highest sales and order volume
-Analyze purchasing behavior by gender
-Determine order status distribution (delivered, cancelled, returned, etc.)
-Identify top 10 states contributing to total sales
-Analyze relationship between age group and gender based on order count
-Identify sales contribution by different channels
-Find the highest selling product category
-Calculate percentage of successfully delivered orders
-
-**Data Cleaning & Preparation
-**
 Removed missing and duplicate values
-Standardized data formats (dates, numbers, categories)
 Verified data consistency and accuracy
-Created calculated fields and measures for analysis
 
 **Data Analysis Process**
 
@@ -55,20 +40,10 @@ Derived actionable insights
 **Dashboard Features**
 
 Interactive Power BI dashboard
-Slicers for dynamic filtering
-Multiple charts for KPI tracking
 Clear visual representation of trends and insights
 
-**Key Insights**
+**Business Impact**
 
-Female customers contribute a higher percentage of total sales
-Specific states contribute significantly to overall revenue
-Middle-aged customers generate the highest number of orders
-Online marketplaces are the primary sales channels
-High percentage of orders are successfully delivered
-
-**Business Impact
-**
 Helps stakeholders understand customer behavior
 Identifies high-value customer segments
 Supports data-driven marketing strategie
